@@ -1,4 +1,4 @@
-# Movie-Success-Predictor
+# Box Office Success Predictor
 
 ### 255 CMPE - Data Mining - Project
 
